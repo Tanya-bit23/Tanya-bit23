@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanya</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">A passionate developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya-bit23&label=Profile%20views&color=0e75b6&style=flat" alt="tanya-bit23" /> </p>
 
